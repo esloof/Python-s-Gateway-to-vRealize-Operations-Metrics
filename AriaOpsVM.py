@@ -1,7 +1,5 @@
 import requests
 import json
-import matplotlib.pyplot as plt
-import datetime
 
 # Replace these with your vROps details
 vrops_host = 'https://ariaops.ntpro.local'
